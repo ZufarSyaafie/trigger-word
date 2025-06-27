@@ -110,7 +110,7 @@ pip install pipwin
 pipwin install pyaudio
 ```
 
-Kemudian buka file `model-maker.ipynb`.
+Kemudian buka file `program.ipynb`.
 
 ---
 
@@ -118,7 +118,7 @@ Kemudian buka file `model-maker.ipynb`.
 
 ### Langkah-langkah:
 
-1. **Jalankan Notebook**: Buka `model-maker.ipynb` di Jupyter
+1. **Jalankan Notebook**: Buka `program.ipynb` di Jupyter
 2. **Sintesis Data**: Jalankan sel-sel pada bagian "Data Synthesis" untuk membuat dataset
 3. **Latih Model**: Jalankan sel-sel pada bagian "Model Development" untuk membangun dan melatih model deteksi
 4. **Mulai Deteksi**: Jalankan sel pada bagian "Sound Detection" dan izinkan akses ke mikrofon
