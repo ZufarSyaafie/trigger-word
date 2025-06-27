@@ -37,9 +37,9 @@ Sistem ini dikembangkan menggunakan Python di dalam Jupyter Notebook, dengan pus
 
 ## 🎥 Demo Video
 
-> **Catatan**: Video demonstrasi akan menunjukkan proses dari mengucapkan kata "simaster" hingga terbukanya browser ke situs web yang dituju.
+https://github.com/ZufarSyaafie/trigger-word/issues/1#issue-3183646310
 
-*[Tambahkan link video demo di sini]*
+> **Catatan**: Video demonstrasi akan menunjukkan proses dari mengucapkan kata "simaster" hingga terbukanya browser ke situs web yang dituju.
 
 ---
 
